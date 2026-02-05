@@ -1,17 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!;I'm+Andika,+Frontend+Enthusiast;Specialized+in+React+&+Modern+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!;I'm+Andika,+Frontend+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ## About Me
 
 Passionate **Frontend Developer** from **Surabaya, Indonesia**  
 I love building beautiful, responsive, and performant web applications, especially using **React**, Tailwind CSS, Bootstrap, and modern JavaScript.  
-Always exploring new tools to create smooth user experiences.  
 
-## Tech Stack I Use Daily
+## Tech Stack I Often Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,bootstrap,html,css,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 ## Let's Connect!
@@ -28,10 +27,10 @@ Always exploring new tools to create smooth user experiences.
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <i>Thanks for visiting!</i>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=andikaarnsyah.andikaarnsyah" alt="Profile views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arianz&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
