@@ -5,6 +5,7 @@
 ## About Me
 
 Passionate **Web Developer** from **Surabaya, Indonesia**  
+
 I love building beautiful, responsive, and performant web applications, especially using **React**, Tailwind CSS, and modern JavaScript.  
 
 ## Tech Stack I Often Use
